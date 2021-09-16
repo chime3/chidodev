@@ -1,4 +1,4 @@
-## Hey 👋, I'm Chi Do   
+## Hey 👋, I'm Chi   
   
 
 
