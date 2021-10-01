@@ -3,7 +3,7 @@
 
 
 
-### Ecommerce(Woocommercee|Shopify|Magento) Expert  
+### Full stack developer
 I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
 Especially majoring in Ecommerce Websites, Keep my eyes on MERN stack.
