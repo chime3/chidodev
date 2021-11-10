@@ -1,4 +1,4 @@
-## Hey 👋, I'm Chi   
+## Hey 👋, I'm MERN expert   
   
 
 
