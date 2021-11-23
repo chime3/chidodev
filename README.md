@@ -1,4 +1,4 @@
-## Hey 👋, I'm MERN expert   
+## Hey 👋, I'm MERN expert (Blockchain Enthusiast)  
   
 
 I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
@@ -15,7 +15,7 @@ I also frequently blog about the world behind the screen which involves system d
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning Headless CMS and ERP.  
+- 🌱 I’m currently devoting on Blockchain Technology.  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
