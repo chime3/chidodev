@@ -1,11 +1,9 @@
 ## Hey 👋, I'm MERN expert (Blockchain Enthusiast)  
   
 
-- Blockchain Engineer
-<br />
+- Blockchain Engineer:
  Solana | Ethereum | Polkadot
-- MERN Stack Developer
-<br />
+- MERN Stack Developer:
  MongoDB | Express | React | Node.js 
 
 ## Languages and Tools  
