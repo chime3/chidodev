@@ -2,8 +2,10 @@
   
 
 - Blockchain Engineer
+<br />
  Solana | Ethereum | Polkadot
 - MERN Stack Developer
+<br />
  MongoDB | Express | React | Node.js 
 
 ## Languages and Tools  
