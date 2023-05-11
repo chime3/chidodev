@@ -2,6 +2,9 @@
   
 - MERN Stack Developer:
  MongoDB | Express | React | Node.js 
+- Mobile App Developer:
+ React Native | Flutter 
+ 
 - Blockchain Engineer:
  Solana | Ethereum | Polkadot
 
