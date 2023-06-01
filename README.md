@@ -2,12 +2,13 @@
   
 - MERN Stack Developer:
  MongoDB | Express | React | Node.js 
-- Mobile App Developer:
- React Native | Flutter 
- 
+
 - Blockchain Engineer:
  Solana | Ethereum | Polkadot
 
+- Mobile App Developer:
+ React Native | Flutter 
+ 
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" />  
