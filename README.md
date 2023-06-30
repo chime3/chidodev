@@ -3,11 +3,12 @@
 - MERN Stack Developer:
  MongoDB | Express | React | Node.js 
 
+- Mobile App Developer:
+ React Native
+
 - Blockchain Engineer:
  Solana | Ethereum | Polkadot
 
-- Mobile App Developer:
- React Native | Flutter 
  
 ## Languages and Tools  
 <div align="center">  
