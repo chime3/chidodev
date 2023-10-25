@@ -1,13 +1,6 @@
 ## Hey 👋, I'm MERN expert (Blockchain Enthusiast)  
   
-- MERN Stack Developer:
- MongoDB | Express | React | Node.js 
-
-- Mobile App Developer:
- React Native
-
-- Blockchain Engineer:
- Solana | Ethereum | Polkadot
+Work by Day, Learn by Night
 
  
 ## Languages and Tools  
